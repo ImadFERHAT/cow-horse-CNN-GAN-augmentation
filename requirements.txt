@@ -1,1 +1,8 @@
-
+torch
+torchvision
+numpy
+matplotlib
+os
+tensorflow
+PIL
+itertools
